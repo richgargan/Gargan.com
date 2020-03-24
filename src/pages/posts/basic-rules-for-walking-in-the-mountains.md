@@ -1,6 +1,6 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2019-04-09'
+title: 'Revealed: Only 20 Intensive Care Bed''s Left on the NHS'
+date: 2020-03-24T23:00:00.000Z
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
 excerpt: >-
