@@ -6,9 +6,10 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      Gargan News is a new publication designed to host contrarian viewpoints
-      that aren't getting a proper hearing in the media.
-    actions: []
+      As the world reels with Coronavirus we report exclusively on the UK's NHS
+      bed shortage.
+    actions:
+      - label: 'Revealed: Only 20 NHS Intensive Care Bed''s Left'
 menus:
   main:
     title: Home
