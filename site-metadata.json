@@ -1,9 +1,9 @@
 {
-  "title": "Gargan",
+  "title": "Gargan News",
   "layout_style": "grid",
   "palette": "black",
   "header": {
-    "title": "Gargan",
+    "title": "Gargan News",
     "logo_img": "/images/gargan-logo.png",
     "has_nav": true
   },
