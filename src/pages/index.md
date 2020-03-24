@@ -9,7 +9,7 @@ sections:
       As the world reels with Coronavirus we report exclusively on the UK's NHS
       bed shortage.
     actions:
-      - label: 'Revealed: Only 20 NHS Intensive Care Bed''s Left'
+      - label: 'Read More: NHS Bed Shortage'
 menus:
   main:
     title: Home
