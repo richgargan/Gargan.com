@@ -8,9 +8,7 @@ sections:
     content: >-
       Gargan News is a new publication designed to host contrarian viewpoints
       that aren't getting a proper hearing in the media.
-    actions:
-      - label: Learn More
-        url: /about
+    actions: []
 menus:
   main:
     title: Home
